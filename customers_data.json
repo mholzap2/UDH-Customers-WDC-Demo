@@ -1,0 +1,58 @@
+[
+  {
+    "Customer": "Cargill",
+    "Sales ($)": "3,400,000",
+    "Active Opportunities ($)": "2,346,000",
+    "Lost Opportunities ($)": "2,618,000",
+    "Products Purchased": 38,
+    "Total Opportunities": 44,
+    "Won Opportunities": 10,
+    "Lost Opportunities": 11,
+    "Active Opportunities": 23,
+    "Internal Contacts": 11,
+    "Customer Contacts": 99,
+    "Firmographic Data Available": "Yes"
+  },
+  {
+    "Customer": "IBM",
+    "Sales ($)": "3,398,300",
+    "Active Opportunities ($)": "4,689,654",
+    "Lost Opportunities ($)": "2,480,759",
+    "Products Purchased": 54,
+    "Total Opportunities": 69,
+    "Won Opportunities": 22,
+    "Lost Opportunities": 16,
+    "Active Opportunities": 31,
+    "Internal Contacts": 12,
+    "Customer Contacts": 133,
+    "Firmographic Data Available": "No"
+  },
+  {
+    "Customer": "KPMG, LLP",
+    "Sales ($)": "3,396,601",
+    "Active Opportunities ($)": "4,959,037",
+    "Lost Opportunities ($)": "1,664,334",
+    "Products Purchased": 39,
+    "Total Opportunities": 15,
+    "Won Opportunities": 8,
+    "Lost Opportunities": 3,
+    "Active Opportunities": 4,
+    "Internal Contacts": 11,
+    "Customer Contacts": 31,
+    "Firmographic Data Available": "No"
+  },
+  {
+    "Customer": "Shell Information Technology",
+    "Sales ($)": "3,394,903",
+    "Active Opportunities ($)": "4,413,373",
+    "Lost Opportunities ($)": "1,154,267",
+    "Products Purchased": 8,
+    "Total Opportunities": 62,
+    "Won Opportunities": 22,
+    "Lost Opportunities": 9,
+    "Active Opportunities": 31,
+    "Internal Contacts": 27,
+    "Customer Contacts": 67,
+    "Firmographic Data Available": "Yes"
+  }
+]
